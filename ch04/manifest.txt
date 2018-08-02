@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: cn.rectcircle.javacmd.Main
+Class-Path: lib/guava-18.0.jar lib/commons-lang3-3.3.2.jar
+
